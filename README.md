@@ -2,7 +2,7 @@
 
 Esse projeto tem como objetivo investigar duas perguntas, em relação ao livro (e ao autor), que me ocorreram após ler o livro:
 
-1.Quais são as impressões gerais que as pessoas tem, do autor e do livro, após a leitura?
+1.Quais são as impressões gerais que as pessoas tem, do autor e do livro, após a leitura?<br>
 2.Será que o livro tem/teve o mesmo impacto em outras pessoas assim como teve sobre mim?
 
 Para isso inicialmente foi feita extração dos reviews do site da Amazon, utilizando webscraping com a biblioteca Selenium, e os textos foram
