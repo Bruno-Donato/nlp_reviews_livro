@@ -1,4 +1,4 @@
-# NLP para ználise de reviews de "O Mundo Assombrado Pelos Demônios" de Carl Sagan
+# NLP para análise de reviews de "O Mundo Assombrado Pelos Demônios" de Carl Sagan
 
 Esse projeto tem como objetivo investigar duas perguntas, em relação ao livro (e ao autor), que me ocorreram após ler o livro:
 
